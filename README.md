@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Geethika</h1>
 <h3 align="center">I am passionate about new trends in technology and learning them. I am interested in web development and competitive programming!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saigeethika-g&label=Profile%20views&color=0e75b6&style=flat" alt="saigeethika-g" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saigeethika-g" alt="saigeethika-g" /></a> </p>
 
 - 📫 How to reach me **saigeethikagudapati@gmail.com**
